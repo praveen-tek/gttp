@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "scripts": {
+    "dev": "go run main.go",
+    "build": "go build -o bin/server main.go",
+    "start": "./bin/server"
+  }
+}
