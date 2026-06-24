@@ -34,6 +34,9 @@ export default function Home() {
           <span>/users/{`{id}`}</span>
         </div>
       </div>
+      <p className="text-black font-[family-name:var(--font-annie)] text-lg">
+        thanks for visiting
+      </p>
     </main>
   );
 }
